@@ -23,7 +23,7 @@ I am passionate about software engineering and I am always looking for new ways 
 -Artificial intelligence<br>
 -WEB3.0<br>
 -metaverse<br>
-- 🌱🎓 I’m currently learning<br>
+- 🌱🎓 I’m currently learning:<br>
 -typescript,<br>
 -html,<br>
 -tailwindcss,<br>
@@ -32,17 +32,17 @@ I am passionate about software engineering and I am always looking for new ways 
 -web 3.0<br>
 -metaverse<br>
 -OOP using typescript<br>
-- 🤝 I’m looking to collaborate on🤝<br>
+- 🤝 I’m looking to collaborate on:🤝<br>
 -Open source projects<br>
 -Personal projects<br>
 -Commercial projects<br>
 -Research projects<br>
 -i have an open network and i connect with many people.<br>
-- 📫 How to reach me
-- Email: hamzaatif.engineer@gmail.com<br>
+- 📫 How to reach me:<br>
+-Email: hamzaatif.engineer@gmail.com<br>
 -LinkedIn: www.linkedin.com/in/1hamzaatif<br>
 -GitHub: https://github.com/hamzaatif<br>
-- 😄 Pronouns<br>
+- 😄 Pronouns:<br>
 -he<br>
 -his<br>
 -dev<br>

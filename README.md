@@ -1,76 +1,109 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Hamza Atif and I'm a software engineer from Pakistan.</p>
+###
+
+<p align="left">My name is Hamza Atif and I'm a passionate Software Engineer from Karachi, Pakistan.</p>
+
+###
 
 <h2 align="left">About me</h2>
 
+###
+
 <p align="left">
-✨ Creating bugs since I wrote my first Hello World<br>
-📚 I'm currently learning Chainlit, tool integration, and advanced agent orchestration<br>
-🎯 Goals: Build intelligent autonomous agents with Agents SDK + Python + Chainlit<br>
-🎲 Fun fact: I debug better at 2 A.M. than during the day 🌙
+✨ Creating bugs since 2019<br>
+🐍 Python expert with a love for clean code<br>
+🧠 I build AI Agents using OpenAI’s Agents SDK + Chainlit + Custom Tools<br>
+📚 Currently exploring cutting-edge tools in LLMs, AI/ML, and Cloud<br>
+🎯 Goals: To contribute to real-world open source AI products<br>
+🎲 Fun fact: My code works… sometimes on the first try! 😄
 </p>
+
+###
 
 <h2 align="left">I code with</h2>
 
+###
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook logo" />
 </div>
 
-<h2 align="left">🧠 Expertise</h2>
+###
 
-<ul>
-  <li>TypeScript, React.js, Next.js, Tailwind CSS</li>
-  <li>Node.js, NestJS, Storybook, Jest</li>
-  <li>Python (Advanced)</li>
-  <li>Agents SDK + Chainlit + Tools</li>
-  <li>AI, Machine Learning, Data Science</li>
-  <li>Web 3.0 & Metaverse Development</li>
-</ul>
+<h2 align="left">I’m interested in:</h2>
 
-<h2 align="left">🚀 I’m currently working on</h2>
+###
 
-<ul>
-  <li>Autonomous AI agents with Chainlit + Python</li>
-  <li>Integrating tool-based workflows using Agents SDK</li>
-  <li>Open source contributions and scalable full-stack projects</li>
-</ul>
+- 🤖 AI/ML + Agent-based Architectures  
+- 🌐 Full-stack & Backend Engineering  
+- 📱 Mobile App Development  
+- ☁️ Cloud & Serverless Tech  
+- 🧪 Testing, DevOps, CI/CD  
+- 🌍 Web 3.0 & Metaverse Development  
 
-<h2 align="left">🤝 Let's collaborate</h2>
+###
 
-<ul>
-  <li>Open source and research projects</li>
-  <li>Innovative AI-based applications</li>
-  <li>Anything exciting with Python or Web 3.0</li>
-</ul>
+<h2 align="left">Currently Learning</h2>
 
-<h2 align="left">📫 How to reach me</h2>
+###
 
-<ul>
-  <li>Email: hamzaatif.engineer@gmail.com</li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/1hamzaatif">1hamzaatif</a></li>
-  <li>GitHub: <a href="https://github.com/hamzaatif">hamzaatif</a></li>
-</ul>
+- 🌀 Advanced LLM Agent Workflows  
+- ⚙️ OOP in Python & TypeScript  
+- 🎨 Tailwind CSS  
+- 🧵 Chainlit & Tooling for LLMs  
+- 🧠 Prompt Engineering  
 
-<h2 align="left">💬 Pronouns</h2>
+###
 
-<ul>
-  <li>he/him</li>
-  <li>his/dev</li>
-</ul>
+<h2 align="left">Looking to Collaborate On</h2>
 
-<h2 align="left">✨ Fun Fact</h2>
+###
 
-<p>I build with logic, debug with instinct, and dream in code.</p>
+- 🔓 Open source agent SDK projects  
+- 💡 AI tool integrations  
+- 📊 Research-backed AI products  
+- 🌐 Scalable web and mobile apps  
+
+###
+
+<h2 align="left">How to reach me</h2>
+
+###
+
+- 📧 Email: hamzaatif.engineer@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/1hamzaatif](https://www.linkedin.com/in/1hamzaatif)  
+- 🖥️ GitHub: [github.com/hamzaatif](https://github.com/hamzaatif)  
+
+###
+
+<h2 align="left">Pronouns</h2>
+
+###
+
+- he/his/dev
+
+###
+
+<h2 align="left">Fun Fact</h2>
+
+###
+
+- 🚀 I learn fast, adapt faster, and break things (productively).
+

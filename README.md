@@ -13,7 +13,8 @@
 <p align="left">
 ✨ Creating bugs since 2019<br>
 🐍 Python expert with a love for clean code<br>
-🧠 I build AI Agents using OpenAI’s Agents SDK + Chainlit + Custom Tools<br>
+🧠 I build AI Agents using OpenAI’s Agents SDK + Chainlit + Custom Tools + n8n(now mostly), use claude code ,hermes and all ai sofwtare you knows, i can become extremely comfortable with any ai tool as i am switching almost every time to identify the perfect one 
+  according to my demands.<br>
 📚 Currently exploring cutting-edge tools in LLMs, AI/ML, and Cloud<br>
 🎯 Goals: To contribute to real-world open source AI products<br>
 🎲 Fun fact: My code works… sometimes on the first try! 😄
